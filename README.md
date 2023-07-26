@@ -5,6 +5,6 @@
 Projeto base:
 
 ```
-npm install react
+node app.js
 
 ```
